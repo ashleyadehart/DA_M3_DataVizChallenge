@@ -74,7 +74,7 @@ Year,Month,Region,Category,Sales,Profit
 2020,April,North,Tea,10369,4001.81
 2020,April,North,Pastries,19892,5154.55
 2020,April,North,Beans,17064,6386.92
-2020,April,South,Espresso,18339,4469.0
+2020,April,South,Espresso,18339,4469
 2020,April,South,Lattes,14555,5509.24
 2020,April,South,Tea,9927,2629.35
 2020,April,South,Pastries,15230,5775.49
@@ -94,7 +94,7 @@ Year,Month,Region,Category,Sales,Profit
 2020,May,North,Tea,14984,5131.33
 2020,May,North,Pastries,6636,1705.24
 2020,May,North,Beans,17978,4554.84
-2020,May,South,Espresso,16424,4936.0
+2020,May,South,Espresso,16424,4936
 2020,May,South,Lattes,17933,3705.14
 2020,May,South,Tea,9769,3728.37
 2020,May,South,Pastries,16666,5602.13
@@ -113,7 +113,7 @@ Year,Month,Region,Category,Sales,Profit
 2020,June,North,Lattes,17318,3521.05
 2020,June,North,Tea,5938,2148.96
 2020,June,North,Pastries,16411,5399.79
-2020,June,North,Beans,7869,3054.0
+2020,June,North,Beans,7869,3054
 2020,June,South,Espresso,6263,1737.02
 2020,June,South,Lattes,6646,2442.68
 2020,June,South,Tea,5781,1550.54
@@ -501,7 +501,7 @@ Year,Month,Region,Category,Sales,Profit
 2022,January,South,Beans,6880,2160.17
 2022,February,East,Espresso,11053,4148.78
 2022,February,East,Lattes,17714,3907.41
-2022,February,East,Tea,11579,2572.0
+2022,February,East,Tea,11579,2572
 2022,February,East,Pastries,11371,3313.51
 2022,February,East,Beans,12219,3671.29
 2022,February,West,Espresso,10026,2305.81
@@ -551,7 +551,7 @@ Year,Month,Region,Category,Sales,Profit
 2022,April,West,Beans,17127,4035.24
 2022,April,North,Espresso,18395,5367.62
 2022,April,North,Lattes,9243,2615.07
-2022,April,North,Tea,18820,5778.0
+2022,April,North,Tea,18820,5778
 2022,April,North,Pastries,18671,5609.5
 2022,April,North,Beans,15733,4121.85
 2022,April,South,Espresso,14181,4963.24
@@ -564,7 +564,7 @@ Year,Month,Region,Category,Sales,Profit
 2022,May,East,Tea,14624,4458.54
 2022,May,East,Pastries,10083,2986.76
 2022,May,East,Beans,18133,5656.19
-2022,May,West,Espresso,9429,2080.0
+2022,May,West,Espresso,9429,2080
 2022,May,West,Lattes,7918,2948.32
 2022,May,West,Tea,11734,4114.52
 2022,May,West,Pastries,9873,2509.21
@@ -729,7 +729,7 @@ Year,Month,Region,Category,Sales,Profit
 2023,January,West,Tea,17124,6489.73
 2023,January,West,Pastries,6380,1392.74
 2023,January,West,Beans,6308,1755.1
-2023,January,North,Espresso,19048,4303.0
+2023,January,North,Espresso,19048,4303
 2023,January,North,Lattes,7150,2796.58
 2023,January,North,Tea,16001,3313.56
 2023,January,North,Pastries,18774,6215.1
@@ -813,7 +813,7 @@ Year,Month,Region,Category,Sales,Profit
 2023,May,North,Lattes,18735,6732.6
 2023,May,North,Tea,9953,2055.35
 2023,May,North,Pastries,17091,6725.35
-2023,May,North,Beans,13997,4093.0
+2023,May,North,Beans,13997,4093
 2023,May,South,Espresso,14672,4690.13
 2023,May,South,Lattes,16299,5494.61
 2023,May,South,Tea,6086,1896.9
@@ -881,7 +881,7 @@ Year,Month,Region,Category,Sales,Profit
 2023,August,South,Beans,12757,4098.03
 2023,September,East,Espresso,14795,5624.18
 2023,September,East,Lattes,14239,4713.14
-2023,September,East,Tea,16237,5171.0
+2023,September,East,Tea,16237,5171
 2023,September,East,Pastries,14461,3930.94
 2023,September,East,Beans,10021,3252.75
 2023,September,West,Espresso,15974,5865.65
@@ -965,7 +965,7 @@ Year,Month,Region,Category,Sales,Profit
 2024,January,East,Pastries,8726,2845.04
 2024,January,East,Beans,16416,4583.91
 2024,January,West,Espresso,16929,4673.83
-2024,January,West,Lattes,22931,6644.0
+2024,January,West,Lattes,22931,6644
 2024,January,West,Tea,19351,5982.12
 2024,January,West,Pastries,19626,4817.28
 2024,January,West,Beans,18332,5818.8
